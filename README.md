@@ -19,7 +19,11 @@ The project uses the MovieLens dataset provided by MovieLens, which contains mil
 
 ## Libraries Used
 Pandas: For data manipulation and preprocessing.
+
 NumPy: For numerical computations.
+
 Scikit-learn: For matrix factorization and performance evaluation.
+
 Matplotlib: For visualizing rating distributions and model performance.
+
 Tqdm: For progress tracking.
